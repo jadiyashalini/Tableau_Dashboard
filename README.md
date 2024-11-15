@@ -44,4 +44,4 @@ This dashboard is designed to help HR teams monitor and analyze employee data. I
 
 Interactive features make it easy to filter and explore specific data points, helping HR teams find patterns and make smarter decisions. By simplifying complex data, this dashboard provides a clear and actionable view of HR performance.
 
-#### Thank You
+# Thank You
